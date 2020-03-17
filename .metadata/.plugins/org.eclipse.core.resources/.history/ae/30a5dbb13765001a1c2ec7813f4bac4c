@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/store/model/Item.java=UTF-8
+encoding//src/com/store/service/ItemServiceImpl.java=UTF-8
+encoding//src/com/store/service/ItemServiceImplService.java=UTF-8
+encoding//src/com/store/service/ItemServiceImplSoapBindingStub.java=UTF-8

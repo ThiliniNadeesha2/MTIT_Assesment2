@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+G:\MTIT_ITEM\Thilini\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\84332814.index
+\SoapExampleClient\src
+C:\Users\ACER\Desktop\Thilini\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\84332814.index
+\SoapExampleClient\src
